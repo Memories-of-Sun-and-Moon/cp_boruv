@@ -2,6 +2,10 @@
 using namespace std;
 using ll = long long;
 using ull = unsigned long long;
+using vi = vector<int>;
+using vvi = vector<vi>;
+using vl = vector<ll>;
+using vvl = vector<vl>;
 const double pi = acos(-1);
 template<class T>constexpr T inf() { return ::std::numeric_limits<T>::max(); }
 template<class T>constexpr T hinf() { return inf<T>() / 2; }
